@@ -22,7 +22,6 @@ projects:
   #   - pushed
   #   - stars
   limit: 6
-  - tictactoe
   exclude:
     archived: false
     forks: false
