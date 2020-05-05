@@ -17,9 +17,18 @@ defaults:
       layout: "post"
 
 projects:
-  - amyhynes.github.io
-  - bert
-  - COMP550-FinalProject
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 6
+  exclude:
+    archived: false
+    forks: false
+    projects:
+      - amyhynes.github.io
+      - bert
+      - COMP550-FinalProject
 
 social_media:
   # behance: your_username
