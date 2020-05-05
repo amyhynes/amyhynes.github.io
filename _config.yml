@@ -26,7 +26,10 @@ projects:
     archived: false
     forks: false
     projects:
-    # - repo-name
+     - HistologyCellCounter
+     - ihc-ml
+     - mexico
+     - tictactoe
 
 social_media:
   # behance: your_username
