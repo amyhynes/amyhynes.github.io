@@ -26,10 +26,9 @@ projects:
     archived: false
     forks: false
     projects:
-     - HistologyCellCounter
-     - ihc-ml
-     - mexico
-     - tictactoe
+     - amyhynes.github.io
+     - bert
+     - COMP550-FinalProject
 
 social_media:
   # behance: your_username
