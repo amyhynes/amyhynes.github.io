@@ -14,7 +14,11 @@
   <div class="f4 mb-6">
     <div class="{{ metadata_styles }}">
       {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
-      <a href="https://amyhynes.me/resume.pdf" {% if site.style == 'dark' %}class="text-white"{% endif %}>Resume</a>
+      <a href="https://amyhynes.github.io/resume.pdf" {% if site.style == 'dark' %}class="text-white"{% endif %}>Resume</a>
+    </div>
+    <div class="{{ metadata_styles }}">
+      {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
+      <a href="https://amyhynes.github.io/report.pdf" {% if site.style == 'dark' %}class="text-white"{% endif %}>Honours Research Report</a>
     </div>
     {% if user.name %}
       <div class="{{ metadata_styles }}">
