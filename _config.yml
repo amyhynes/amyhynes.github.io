@@ -48,9 +48,9 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Security
-    web_url: https://github.com/topics/security
-    image_url: https://cdn0.iconfinder.com/data/icons/cybersecurity-linear-outline/300/215948781Untitled-3-512.png
+  - name: Sustainability
+    web_url: https://luiscruz.github.io/course_sustainableSE/2022/
+    image_url: https://cdn1.iconfinder.com/data/icons/go-green/60/systainable-energy-1-1024.png
 
   - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
